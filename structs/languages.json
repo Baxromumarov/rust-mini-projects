@@ -1,0 +1,414 @@
+[
+  {
+    "code": "af",
+    "native": "Afrikaans"
+  },
+  {
+    "code": "sq",
+    "native": "Shqip"
+  },
+  {
+    "code": "am",
+    "native": "አማርኛ"
+  },
+  {
+    "code": "ar",
+    "native": "العربية"
+  },
+  {
+    "code": "hy",
+    "native": "Հայերեն"
+  },
+  {
+    "code": "az",
+    "native": "azərbaycan dili"
+  },
+  {
+    "code": "eu",
+    "native": "euskara"
+  },
+  {
+    "code": "be",
+    "native": "беларуская мова"
+  },
+  {
+    "code": "bn",
+    "native": "বাংলা"
+  },
+  {
+    "code": "bs",
+    "native": "bosanski jezik"
+  },
+  {
+    "code": "bg",
+    "native": "български език"
+  },
+  {
+    "code": "ca",
+    "native": "català"
+  },
+  {
+    "code": "ceb",
+    "native": "Cebuano"
+  },
+  {
+    "code": "zh",
+    "native": "中文"
+  },
+  {
+    "code": "co",
+    "native": "corsu"
+  },
+  {
+    "code": "hr",
+    "native": "hrvatski jezik"
+  },
+  {
+    "code": "cs",
+    "native": "čeština"
+  },
+  {
+    "code": "da",
+    "native": "dansk"
+  },
+  {
+    "code": "nl",
+    "native": "Nederlands"
+  },
+  {
+    "code": "en",
+    "native": "English"
+  },
+  {
+    "code": "eo",
+    "native": "Esperanto"
+  },
+  {
+    "code": "et",
+    "native": "eesti"
+  },
+  {
+    "code": "fi",
+    "native": "suomi"
+  },
+  {
+    "code": "fr",
+    "native": "français"
+  },
+  {
+    "code": "fy",
+    "native": "Frysk"
+  },
+  {
+    "code": "gl",
+    "native": "Galego"
+  },
+  {
+    "code": "ka",
+    "native": "ქართული"
+  },
+  {
+    "code": "de",
+    "native": "Deutsch"
+  },
+  {
+    "code": "el",
+    "native": "ελληνικά"
+  },
+  {
+    "code": "gu",
+    "native": "ગુજરાતી"
+  },
+  {
+    "code": "ht",
+    "native": "Kreyòl ayisyen"
+  },
+  {
+    "code": "ha",
+    "native": "هَوُسَ"
+  },
+  {
+    "code": "haw",
+    "native": "ʻŌlelo Hawaiʻi"
+  },
+  {
+    "code": "iw",
+    "native": "עברית"
+  },
+  {
+    "code": "hi",
+    "native": "हिन्दी, हिंदी"
+  },
+  {
+    "code": "hmn",
+    "native": "Hmoob"
+  },
+  {
+    "code": "hu",
+    "native": "magyar"
+  },
+  {
+    "code": "is",
+    "native": "Íslenska"
+  },
+  {
+    "code": "ig",
+    "native": "Asụsụ Igbo"
+  },
+  {
+    "code": "id",
+    "native": "Bahasa Indonesia"
+  },
+  {
+    "code": "ga",
+    "native": "Gaeilge"
+  },
+  {
+    "code": "it",
+    "native": "Italiano"
+  },
+  {
+    "code": "ja",
+    "native": "日本語"
+  },
+  {
+    "code": "jw",
+    "native": "Basa Jawa"
+  },
+  {
+    "code": "kn",
+    "native": "ಕನ್ನಡ"
+  },
+  {
+    "code": "kk",
+    "native": "қазақ тілі"
+  },
+  {
+    "code": "km",
+    "native": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ"
+  },
+  {
+    "code": "ko",
+    "native": "한국어"
+  },
+  {
+    "code": "ku",
+    "native": "Kurdî"
+  },
+  {
+    "code": "ky",
+    "native": "Кыргызча"
+  },
+  {
+    "code": "lo",
+    "native": "ພາສາລາວ"
+  },
+  {
+    "code": "la",
+    "native": "latine"
+  },
+  {
+    "code": "lv",
+    "native": "Latviešu"
+  },
+  {
+    "code": "lt",
+    "native": "lietuvių kalba"
+  },
+  {
+    "code": "lb",
+    "native": "Lëtzebuergesch"
+  },
+  {
+    "code": "mk",
+    "native": "македонски јазик"
+  },
+  {
+    "code": "mg",
+    "native": "fiteny malagasy"
+  },
+  {
+    "code": "ms",
+    "native": "بهاس ملايو"
+  },
+  {
+    "code": "ml",
+    "native": "മലയാളം"
+  },
+  {
+    "code": "mt",
+    "native": "Malti"
+  },
+  {
+    "code": "mi",
+    "native": "te reo Māori"
+  },
+  {
+    "code": "mr",
+    "native": "मराठी"
+  },
+  {
+    "code": "mn",
+    "native": "Монгол хэл"
+  },
+  {
+    "code": "my",
+    "native": "ဗမာစာ"
+  },
+  {
+    "code": "ne",
+    "native": "नेपाली"
+  },
+  {
+    "code": "no",
+    "native": "Norsk"
+  },
+  {
+    "code": "ny",
+    "native": "chinyanja"
+  },
+  {
+    "code": "ps",
+    "native": "پښتو"
+  },
+  {
+    "code": "fa",
+    "native": "فارسی"
+  },
+  {
+    "code": "pl",
+    "native": "język polski"
+  },
+  {
+    "code": "pt",
+    "native": "Português"
+  },
+  {
+    "code": "pa",
+    "native": "ਪੰਜਾਬੀ"
+  },
+  {
+    "code": "ro",
+    "native": "Română"
+  },
+  {
+    "code": "ru",
+    "native": "Русский"
+  },
+  {
+    "code": "sm",
+    "native": "gagana fa'a Samoa"
+  },
+  {
+    "code": "gd",
+    "native": "Gàidhlig"
+  },
+  {
+    "code": "sr",
+    "native": "српски језик"
+  },
+  {
+    "code": "st",
+    "native": "Sesotho"
+  },
+  {
+    "code": "sn",
+    "native": "chiShona"
+  },
+  {
+    "code": "sd",
+    "native": "सिन्धी"
+  },
+  {
+    "code": "si",
+    "native": "සිංහල"
+  },
+  {
+    "code": "sk",
+    "native": "Slovenčina"
+  },
+  {
+    "code": "sl",
+    "native": "Slovenski Jezik"
+  },
+  {
+    "code": "so",
+    "native": "Soomaaliga"
+  },
+  {
+    "code": "es",
+    "native": "Español"
+  },
+  {
+    "code": "su",
+    "native": "Basa Sunda"
+  },
+  {
+    "code": "sw",
+    "native": "Kiswahili"
+  },
+  {
+    "code": "sv",
+    "native": "Svenska"
+  },
+  {
+    "code": "tl",
+    "native": "Wikang Tagalog"
+  },
+  {
+    "code": "tg",
+    "native": "тоҷикӣ"
+  },
+  {
+    "code": "ta",
+    "native": "தமிழ்"
+  },
+  {
+    "code": "te",
+    "native": "తెలుగు"
+  },
+  {
+    "code": "th",
+    "native": "ไทย"
+  },
+  {
+    "code": "tr",
+    "native": "Türkçe"
+  },
+  {
+    "code": "uk",
+    "native": "Українська"
+  },
+  {
+    "code": "ur",
+    "native": "اردو"
+  },
+  {
+    "code": "uz",
+    "native": "O'zbek"
+  },
+  {
+    "code": "vi",
+    "native": "Tiếng Việt"
+  },
+  {
+    "code": "cy",
+    "native": "Cymraeg"
+  },
+  {
+    "code": "xh",
+    "native": "isiXhosa"
+  },
+  {
+    "code": "yi",
+    "native": "ייִדיש"
+  },
+  {
+    "code": "yo",
+    "native": "Yorùbá"
+  },
+  {
+    "code": "zu",
+    "native": "isiZulu"
+  }
+]
